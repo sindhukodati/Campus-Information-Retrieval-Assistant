@@ -264,4 +264,4 @@ This project was developed as a Major Project (2026) at SR University. All campu
 
 ---
 
-<p align="center">CIRA · Campus Intelligence · SR University · 2026</p>
+<p align="center">CIRA · SR University · 2026</p>
